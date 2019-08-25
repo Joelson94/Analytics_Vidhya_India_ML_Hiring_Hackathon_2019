@@ -13,3 +13,5 @@ Pandas 0.25.0
 Numpy 1.16.2
 lightgbm 2.2.3
 sklearn 0.21.2
+
+In order to execute the files the jupyter notebook must be in the same folder as the test.csv and train.csv files.
